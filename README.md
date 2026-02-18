@@ -89,7 +89,7 @@ Esto permite mantener el contexto y mejorar la calidad de las respuestas.
 
  Evidencia:
 
-![Ejercicio 3](docs/ejercicio3.png)
+![Ejercicio 3](docs/Ejercicio3.png)
 
 ---
 
